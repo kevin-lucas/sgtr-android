@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1039349180573",
+    "firebase_url": "https://sgtr-luiza-barcelos.firebaseio.com",
+    "project_id": "sgtr-luiza-barcelos",
+    "storage_bucket": "sgtr-luiza-barcelos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039349180573:android:fae96c9154cd3c8a",
+        "android_client_info": {
+          "package_name": "br.com.kevinlucas.luizabarcelos.agtr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039349180573-als2b6f4ndosegsqlkki2qj1802s3mn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.kevinlucas.luizabarcelos.agtr",
+            "certificate_hash": "d5d96ee31dfd6422901beaec351c222c17c5e15a"
+          }
+        },
+        {
+          "client_id": "1039349180573-e18ibh8bcfu13asq3t0gcmst3r9uem4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiAyXncI7S5klc_v_CEItslLM4koa-oBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039349180573-e18ibh8bcfu13asq3t0gcmst3r9uem4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039349180573:android:acde0f68bc62883f",
+        "android_client_info": {
+          "package_name": "br.com.luizabarcelos.ticketalimentacaoluizabarcelos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039349180573-c0066dc54evntjk63rpbra3o4fbo1rbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.luizabarcelos.ticketalimentacaoluizabarcelos",
+            "certificate_hash": "d5d96ee31dfd6422901beaec351c222c17c5e15a"
+          }
+        },
+        {
+          "client_id": "1039349180573-e18ibh8bcfu13asq3t0gcmst3r9uem4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiAyXncI7S5klc_v_CEItslLM4koa-oBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039349180573-e18ibh8bcfu13asq3t0gcmst3r9uem4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APP SGTR</string>
+    <string name="mensage_permission_granted">Permissão concedida, agora você pode acessar a câmera.</string>
+    <string name="mensage_permission_denied">Permissão negada, você não pode acessar e câmera.</string>
+    <string name="mensage_permission_solicitation">Você precisa permitir o acesso a ambas as permissões.</string>
+    <string name="message_ok">OK</string>
+    <string name="message_cancel">Cancel</string>
+</resources>
